@@ -1,0 +1,10 @@
+
+    <div style="text-align: center;"><strong><%=datum.name %></strong></div>
+    <table>
+        <tr>
+            <-- may need to add formats for tooltip -->
+            <-- i.e datum.format('count', ',.0f"pluralize( thing, things)"') -->
+            <td><%=datum.count %>:</td>
+            <td style="text-align: right;"><%= datum.score %></td>
+        </tr>
+    </table>
