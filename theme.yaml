@@ -1,7 +1,1 @@
-logo:
-  image: 'photo.jpeg'
-  config:
-    h: 100
-    pad: 20
-    dpr: 2
 # Set the primary colors for the app.
