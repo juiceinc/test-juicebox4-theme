@@ -3,4 +3,7 @@
 
 .slice.slice-style-redder {
   background: indianred;
+  .viz-bar {
+    background: darken(indianred, 50%) !important;
+  }
 }
